@@ -1,7 +1,7 @@
 # machine-learning-diabetes
 # Pima Indians Diabetes Prediction
 
-A Machine Learning project developed to analyze and predict diabetes cases among Pima Indian women, using clinical and biometric data from a public dataset.
+A Machine Learning project developed to analyze and predict diabetes cases, using clinical and biometric data from a public dataset.
 
 ---
 
